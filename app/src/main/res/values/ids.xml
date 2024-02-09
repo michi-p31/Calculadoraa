@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tResultado" type="id" />
+    <item name="btAC" type="id" />
+    <item name="guideline105" type="id" />
+    <item name="guideline101" type="id" />
+    <item name="guideline201" type="id" />
+    <item name="guideline202" type="id" />
+    <item name="guideline204" type="id" />
+    <item name="guideline102" type="id" />
+    <item name="btfactorial" type="id" />
+    <item name="guideline103" type="id" />
+    <item name="btfibo" type="id" />
+    <item name="btmulti" type="id" />
+    <item name="guideline104" type="id" />
+    <item name="btmult" type="id" />
+    <item name="btdivicion" type="id" />
+    <item name="btresta" type="id" />
+    <item name="btrest" type="id" />
+    <item name="guideline206" type="id" />
+</resources>
